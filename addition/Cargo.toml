@@ -1,0 +1,10 @@
+[package]
+name = "addition"
+version = "0.1.0"
+authors = ["Pankaj Chaudhary <pankajchaudhary172@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]

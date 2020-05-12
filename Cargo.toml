@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "addition","Button-calling","multiplication"
+]
+
+[profile.release]
+opt-level = "s"
